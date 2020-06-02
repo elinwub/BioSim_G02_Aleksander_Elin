@@ -1,1 +1,1 @@
-# BioSim_G02_Aleksander_Elin
+# Aleksander and Elins INF200 BioSim project
